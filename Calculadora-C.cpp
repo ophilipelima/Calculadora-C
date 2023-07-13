@@ -36,7 +36,7 @@ int main(void)
     printf("Resultado: \n\n");
     
     printf("%d", resultado);
-    //printf("%d", &numero01, " ","%s", &operacao," ","%d", &numero02, " = ","%d", resultado);
+    printf("%d", &numero01, " ","%s", &operacao," ","%d", &numero02, " = ","%d", resultado);
     
 }
 
